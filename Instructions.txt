@@ -1,0 +1,4 @@
+	
+	When you launch Script.exe, you're going to want to start adding your scores. Simply plug in your 3x10 scores into the correct places, and make sure the date is correct. The date can also be used to distinguish between certain targets. What I mean is, if you shot two relays in one day, the date can be something like "29-Dec-21 1", the last one being the first relay, and then the second relay targets could be designated as "29-Dec-21 2". If you're plugging in a 3x20 target, simply divide your scores for each position by two. Same thing with the total score. So a 160 in prone becomes an 80, and so on. If it's not an even number, like a 163, it'll divide to something like 81.5. Just round it down and plug it in. For our example, you'd plug in 81.
+
+	And that's that. Thanks for using my program. Tell me if you experience any problems.
